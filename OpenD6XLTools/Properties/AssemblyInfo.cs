@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("OpenD6XLTools")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Excel tools for OpenD6 RPG")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Antoine 'Khazou' Lenoir")]
 [assembly: AssemblyProduct("OpenD6XLTools")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright © Antoine Lenoir 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
