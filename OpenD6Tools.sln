@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenD6XLTools", "OpenD6XLTools\OpenD6XLTools.csproj", "{0010DA5E-E909-4951-9AFC-28F9F3F87FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0010DA5E-E909-4951-9AFC-28F9F3F87FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0010DA5E-E909-4951-9AFC-28F9F3F87FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0010DA5E-E909-4951-9AFC-28F9F3F87FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0010DA5E-E909-4951-9AFC-28F9F3F87FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0F33B34-2F76-4A16-8E8B-65B7420BF7F6}
+	EndGlobalSection
+EndGlobal
